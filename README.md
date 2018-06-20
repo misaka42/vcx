@@ -7,6 +7,8 @@
 
 [![codecov](https://codecov.io/gh/ppq1991/vcx/branch/master/graph/badge.svg)](https://codecov.io/gh/ppq1991/vcx)
 [![Build Status](https://travis-ci.org/ppq1991/vcx.svg?branch=master)](https://travis-ci.org/ppq1991/vcx)
+ <a href="https://www.npmjs.com/package/vcx"><img src="https://img.shields.io/npm/v/vcx.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/vcx"><img src="https://img.shields.io/npm/l/vcx.svg" alt="License"></a>
 
 ## Guide
 ### Travis Setup
