@@ -1,6 +1,6 @@
 {
   "name": "vcx",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Codecov Example Typescript",
   "main": "index.js",
   "devDependencies": {
